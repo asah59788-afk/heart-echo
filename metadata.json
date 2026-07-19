@@ -1,0 +1,6 @@
+{
+  "name": "Heart's Echo",
+  "description": "An interactive, choice-driven narrative game about a boy struggling with onesided love, building courage, and finding his voice to express his true feelings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
